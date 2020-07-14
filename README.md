@@ -55,3 +55,8 @@ As you can see in the image above, you can't find any difference between the bot
 - Currently, if you try with the color image the output will be a Black and White image.
 
 If you want to try with color images, please visit [steganography-crypto](https://github.com/kvvignesh/steganography-crypto)
+
+
+Licensing
+------------------------
+Please see the file named [LICENSE.md](LICENSE.md).
