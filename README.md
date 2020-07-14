@@ -41,11 +41,11 @@ In other words, steganography is more discreet than cryptography when we want to
 
 The below image is the original image used for the encrypting the data and storing into it
 
-<p align="center"><img src="https://github.com/kvvignesh/kvvignesh/raw/master/assets/bitmoji.jpg" width="400" /> </p>
+<p align="center"><img src="https://github.com/kvvignesh/steganography-fernet-python/raw/master/input.png" width="400" /> </p>
 
 Below is the image where the data is stored in its pixel
 
-<p align="center"><img src="https://github.com/kvvignesh/kvvignesh/raw/master/assets/bitmoji.jpg" width="400" /> </p>
+<p align="center"><img src="https://github.com/kvvignesh/steganography-fernet-python/raw/master/output.png" width="400" /> </p>
 
 As you can see in the image above, you can't find any difference between the both the images
 
