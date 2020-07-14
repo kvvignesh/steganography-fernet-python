@@ -59,4 +59,4 @@ If you want to try with color images, please visit [steganography-crypto](https:
 
 Licensing
 ------------------------
-Please see the file named [LICENSE.md](LICENSE.md).
+Please see the file named [LICENSE](LICENSE).
